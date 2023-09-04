@@ -1,0 +1,162 @@
+.sq{
+    height: 300px;
+    width: 350px;
+    position: relative;
+    background-color: burlywood;
+    margin-top: 130px;
+    margin-left: 70px;
+}
+.line1{
+    height:20px;
+    width:350px;
+    position: absolute;
+    background-color: black;
+    margin left: 0px;
+}
+.line2{
+    height:20px;
+    width: 350px;
+    position: absolute;
+    background-color: black;
+    margin-top: 300px;
+}
+.line3{
+    height:300px;
+    width: 20px;
+    position: absolute;
+    background-color: black;
+}
+.line4{
+    height:320px;
+    width: 20px; 
+    position: absolute;
+    background-color: black;
+    margin-left:350px;
+}
+.round1{
+    height: 90px;
+    width: 90px;
+    background-color:burlywood;
+    position: absolute;
+    border-style: solid;
+    margin-left: 140px;
+    border-radius: 100px;
+    margin-top:110px;
+}
+.box1{
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+    background-color: red;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.box2{
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+    background-color: red;
+    position: absolute;
+    margin-left: 330px;
+    margin-top: 20px;
+}
+.box3{
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+    background-color: red;
+    position: absolute; 
+    margin-top: 280px;
+    margin-left: 20px;
+}
+.box4{
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+    background-color: red;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 330px;
+}
+.l1{
+    height:1px;
+    width:250px;
+    position: absolute;
+    background-color: black;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.l2{
+    height:1px;
+    width: 250px;
+    position: absolute;
+    background-color: black;
+    margin-left: 60px; 
+    margin-top: 250px;
+}   
+.l3{
+    height:180px;
+    width: 1px;
+    position: absolute;
+    background-color: black;
+    margin-left: 60px; 
+    margin-top: 70px;      
+}
+.l4{
+    height: 181px;  
+    width: 1px;
+    position: absolute;
+    background-color: black;
+    margin-left: 310px;
+    margin-top: 70px;
+}
+.ln1{
+    height:1px;
+    width:210px;
+    position: absolute;
+    background-color: black;
+    margin-left: 80px;
+    margin-top: 85px; 
+}
+.ln2{
+    height:1px;
+    width: 211px;
+    position: absolute;
+    background-color: black;
+    margin-left: 80px; 
+    margin-top: 235px;  
+}
+.ln3{
+    height:150px;
+    width: 1px;
+    position: absolute;
+    background-color: black;
+    margin-left: 80px; 
+    margin-top: 85px;        
+}
+.ln4{
+    height: 150px;  
+    width: 1px;
+    position: absolute;
+    background-color: black;
+    margin-left: 290px;
+    margin-top: 85px; 
+}
+.round2{
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    position: absolute;
+    background-color: maroon;
+    margin-left: 173px;
+    margin-top: 146px;
+}
+
+
+
+
+    
+
+
+
